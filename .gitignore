@@ -1,0 +1,8 @@
+
+data/img_align_celeba/
+
+__pycache__/
+
+data/mnist/
+
+\.ipynb_checkpoints/
